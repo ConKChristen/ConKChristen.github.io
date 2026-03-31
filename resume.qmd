@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Connor Christensen
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Connor Christensen
+Computer Scientist Major
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -15,7 +15,7 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Studying at BYUI, expected graduation of 
 
 ### Specialized in
 
