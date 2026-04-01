@@ -21,10 +21,8 @@ website:
     right:
       - text: "Home"
         file: index.qmd
-      - text: "My Resume Details"
+      - text: "My Resume"
         file: resume.qmd
-      - text: "Resume pdf"
-        file: ConnorChristensen_Resume_pdf.pdf
       - text: "Data Cleansing"
         file: cleansing.qmd
       - text: "Data Exploration"
